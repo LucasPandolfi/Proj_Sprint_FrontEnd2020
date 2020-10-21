@@ -1,0 +1,3 @@
+Tela "home" da empresa vira a tela "Suas vagas" e a tela home original é excluída
+
+Tela de vagas pendentes foi removida... apenas as empresas serão verificadas pelo admin
